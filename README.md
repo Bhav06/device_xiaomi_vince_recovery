@@ -1,4 +1,4 @@
-# For building TWRP for Xiaomi Redmi 5 Plus (Global) & Redmi Note 5 (India) ONLY
+# For building TWRP & OFOX RECOVERY for Xiaomi Redmi 5 Plus (Global) & Redmi Note 5 (India) ONLY
 
 To compile:
 
